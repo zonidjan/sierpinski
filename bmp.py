@@ -1,4 +1,5 @@
 # bmp - bitmap processing
+# ref: https://en.wikipedia.org/wiki/BMP_file_format
 
 from struct import unpack
 
